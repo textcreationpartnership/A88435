@@ -1,0 +1,1143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of new books, by way of supplement to the former. Being such as have been printed from that time, till Easter-Term, 1660.</title>
+            <author>London, William, fl. 1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88435</idno>
+            <idno type="STC">Wing L2848</idno>
+            <idno type="STC">Thomason E1025_17</idno>
+            <idno type="STC">ESTC R202769</idno>
+            <idno type="EEBO-CITATION">99862951</idno>
+            <idno type="PROQUEST">99862951</idno>
+            <idno type="VID">168868</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168868)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 152 :E1025[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of new books, by way of supplement to the former. Being such as have been printed from that time, till Easter-Term, 1660.</title>
+                  <author>London, William, fl. 1658.</author>
+                  <author>London, William, fl. 1658.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by A.M. and are to be sold by Luke Fawn at the Parrot in Pauls Church-yard, and Francis Tyton at the three Daggers in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: W.L., i.e. William London.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Intended as a supplement to his: A catalogue of the most vendible books in England.</note>
+                  <note>Annotation on Thomason copy: "May 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168868:1" rendition="simple:additions"/>
+            <p>A. CATALOGUE OF New Books, By way of Supplement to the former.</p>
+            <p>
+               <hi>BEING</hi> Such as have been Printed from that time, till <hi>Eaſter</hi>-Term, 1660.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> and are to be ſold by <hi>Luke Fawn</hi> at the Parrot in <hi>Pauls</hi> Church-yard, and <hi>Francis Tyton</hi> at the three Daggers in Fleetſtreet. 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168868:2"/>
+            <pb facs="tcp:168868:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Thought ſome more fit for this VVork, would have purſued it, whereby I hoped to have per<g ref="char:EOLhyphen"/>formed my promiſe by a Proxie; but finding the contrary, and con<g ref="char:EOLhyphen"/>ſidering the uſe of it, I have kept my engage<g ref="char:EOLhyphen"/>ment alive by this Supplement. It might have been more perfect, if done by one nigher the mint of Books; and therefore the defects of a
+<pb facs="tcp:168868:3"/>work ſo diſtanced, may I hope amongſt the un<g ref="char:EOLhyphen"/>derſtanding paſs uncenſured. Some might have been inſtrumentall in a more exact production, who with the Dog in the manger, will neither eat hay, nor ſuffer the Horſe; yet this I can aſſure, that none or few Pieces of account are eſ<g ref="char:EOLhyphen"/>caped, and if any, they ſhall begin with the next years fruits: And ſo farewell.</p>
+            <closer>
+               <signed>W. L.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:168868:3"/>
+               <head>DIVINITY BOOKS.</head>
+               <list>
+                  <head>A</head>
+                  <item>DR <hi>Ames,</hi> The ſubſtance of Chriſtian Religion; or an eaſie draught of the Chriſti<g ref="char:EOLhyphen"/>an Catechiſme in fifty two Lectures. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Angel,</hi> The right Government of the thoughts; a diſcovery of vain, idle, and wicked thoughts; with directions for getting, keeping, and governing good; with four Sermons, <hi>viz.</hi> right ordering the converſation, on <hi>Pſal.</hi> 50. ult. A Funerall Sermon on <hi>Pſal.</hi> 39.5. and one on 1 <hi>Cor.</hi> 11.28. 80.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Arrowſmith,</hi> A chain of Principles, or orderly concatenation of Theo<g ref="char:EOLhyphen"/>logicall Aphoriſms, and Exerci<g ref="char:EOLhyphen"/>tations, wherein the chief heads of Chriſtian Religion are aſſerted and improved. 40.
+<list>
+                        <item>—Bad Man, An expoſition of the firſt 18 Verſes of the firſt of <hi>John.</hi> 40.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Aſhe,</hi> Faithfull Chriſtians gain by death, a Sermon at the Lady <hi>Eſſex</hi> her Funerall. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Allen,</hi> A Scripture Chronology. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Aitesbury, Diatriba de aeterno Divini beneplaciti circa creaturas intellectu<g ref="char:EOLhyphen"/>ales decreto, ubi patrum conſultae, Scholaſticorum ſcita, &amp; Moderno<g ref="char:EOLhyphen"/>rum placita ad S. Script. amuſſim, &amp; orthodexae Eccleſiae Tribunal de<g ref="char:EOLhyphen"/>feruntur.</hi> 40.</item>
+               </list>
+               <list>
+                  <head>B</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>J. Brinſly,</hi> Goſpel-Marrow; the great God giving himſelf for the ſons of men; or the ſacred myſtery of Redemption, with the two ends thereof, Juſtification and Sanctification, opened and applied. 80.
+<list>
+                        <item>—The hardeſt leſſon in Chriſts School learned and taught by himſelf; how Chriſtians ſhould ſubmit to their heavenly Father, in ſuffering his will in life and death. 80.</item>
+                        <item>—The falſe Teacher. 40.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>A. Burgeſs,</hi> Self-judging in order to the Sacrament; with a Sermon on the day of Judgment. 120.
+<list>
+                        <item>—Doctrine of Original ſin, aſſerted and vindicated againſt Socinians, Papiſts, and Anabaptiſts, practi<g ref="char:EOLhyphen"/>cally improved; alſo of Juſtifica<g ref="char:EOLhyphen"/>tion by faith alone. <hi>folio.</hi>
+                        </item>
+                        <item>—Scripture Directory for Church-Officers, and people; or a practi<g ref="char:EOLhyphen"/>call Comment on the 3 of the firſt of <hi>Corinthians;</hi> with the Godly mans Choice. <hi>folio.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Byfield,</hi> Goſpel-glory, without prejudice to the Law, ſhining forth in the glory of God the Fa<g ref="char:EOLhyphen"/>ther, Son, and Holy Ghoſt, for the ſalvation of ſinners, who through grace do believe. 80.
+<list>
+                        <item>—Signs of the times.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Brooks,</hi> The ſilent ſoul; with ſo<g ref="char:EOLhyphen"/>veraign
+<pb facs="tcp:168868:4"/>antidotes againſt the moſt miſerable exigents, <hi>&amp;c.</hi> to work ſouls to be ſtill and ſilent under all changes, that have or may paſs upon them in this world 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Boteler,</hi> The Worthy of Ephratah, in a Sermon at the Earl of <hi>Maſ<g ref="char:EOLhyphen"/>graves</hi> Funerall. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bury,</hi> Every ones duty; or Theſes of the duty of Superiours and In<g ref="char:EOLhyphen"/>feriours, being the ſumme of the fifth Commandement. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Beverly,</hi> The Presbyterians and In<g ref="char:EOLhyphen"/>dependants vindicated from the contradictious way of Free Ad<g ref="char:EOLhyphen"/>miſſion, In Anſwer to M<hi rend="sup">r</hi> 
+                     <hi>Timſon,</hi> and M<hi rend="sup">r</hi> 
+                     <hi>Maurise.</hi> 80.
+<list>
+                        <item>—<hi>
+                              <g ref="char:V">Ʋ</g>nio reformantium, ſive examen Hornbeki de Independentiſſimo, A<g ref="char:EOLhyphen"/>pologeticum Elenchticum utrinque, Mo<g ref="char:EOLhyphen"/>deſtum Fraternum; ad Eccleſia<g ref="char:EOLhyphen"/>rum omnium reformatarum,</hi> &amp;c. 80.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bourne,</hi> Miniſters maintenance by Tythes; Infant-Baptiſm, humane Learning; and the Sword of Ma<g ref="char:EOLhyphen"/>giſtracy juſtified. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Ballingford, Habackcuks</hi> Prayer, ap<g ref="char:EOLhyphen"/>plied to the Churches preſent oc<g ref="char:EOLhyphen"/>caſion on <hi>Hab.</hi> 3.2. with Chriſts counſell to the Church of <hi>Phila<g ref="char:EOLhyphen"/>delphia</hi> on <hi>Rev.</hi> 3.11. Preached before the Provinciall Aſſembly at <hi>London.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Blackwood,</hi> An expoſition of the firſt 10 Chapters of <hi>Mathew.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Baxter,</hi> The Grotian Religion diſ<g ref="char:EOLhyphen"/>covered againſt M<hi rend="sup">r</hi> 
+                     <hi>Pierce.</hi> 80.
+<list>
+                        <item>—Crucifying the world by the Croſs of Chriſt; with a Preface to the Nobles, Gentlemen, <hi>&amp;c.</hi> direct<g ref="char:EOLhyphen"/>ing them to be rich in the beſt things. 40.</item>
+                        <item>—Confirmation and reſtauration, the neceſſary means of reformati<g ref="char:EOLhyphen"/>on and reconciliation, for healing the diviſions of the Church, ten<g ref="char:EOLhyphen"/>dered<g ref="char:punc">▪</g> to Magiſtrates, Miniſters, and people. 80.</item>
+                        <item>—Five Diſputations about Church-Government, and Worſhip; a<g ref="char:EOLhyphen"/>bout Epiſcopacy, Ordination, Li<g ref="char:EOLhyphen"/>turgy, Ceremonies. 40.</item>
+                        <item>—Key for Catholicks, opening the jugling of the Jeſuits; the vanity of Popery; with forty detections of their fraud. 40.</item>
+                        <item>—Holy Commonwealth; or politi<g ref="char:EOLhyphen"/>call Aphoriſms, opening the true principles of Government. 80.</item>
+                        <item>—On ſaving faith. 40.</item>
+                        <item>—On ſelf-deniall, a Treatiſe. 40.</item>
+                        <item>—Directions to Juſtices of Peace, in a ſheet of paper.</item>
+                        <item>—A Treatiſe of death, the laſt ene<g ref="char:EOLhyphen"/>my to be deſtroyed: wherein its enmity conſiſteth; and how it is deſtroyed. 120.</item>
+                        <item>—True Catholick and Catholick Church deſcribed; vanity of Pa<g ref="char:EOLhyphen"/>piſts and other Schiſmaticks, that confine it to their ſect, ſhamed; with a Poſtſcript againſt M<hi rend="sup">r</hi> 
+                           <hi>Mal<g ref="char:EOLhyphen"/>pas,</hi> M<hi rend="sup">r</hi> 
+                           <hi>Pierce, Philo-Tylenus,</hi> and others. 120.</item>
+                        <item>—Catholick Unity; or the only way to bring us all to be of one Reli<g ref="char:EOLhyphen"/>gion. 120.</item>
+                        <item>—A Sermon of Repentance, preached before the Houſe of Commons at a late Faſt. 40.</item>
+                        <item>—Right, Rejoycing, A Thankſgiving Sermon at <hi>Pauls</hi> before the Lord Maior, <hi>&amp;c.</hi> 40.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Burroughs,</hi> The Saints Inheritance 40.
+<list>
+                        <item>—On <hi>Mathew,</hi> Chriſts invitation: of meekneſs and anger; Chriſt the humble Teacher: the eaſie way to Heaven. 40.</item>
+                        <item>—Saints Happineſs, with ſteps to it<g ref="char:punc">▪</g> in divers Lectures upon the Bea<g ref="char:EOLhyphen"/>titudes. 40.</item>
+                        <pb facs="tcp:168868:4"/>
+                        <item>—Goſpel-Revelation in three Trea<g ref="char:EOLhyphen"/>tiſes: 40.
+<list>
+                              <item>1. Nature of God.</item>
+                              <item>2. Ex<g ref="char:EOLhyphen"/>cellency of Chriſt.</item>
+                              <item>3. Excellen<g ref="char:EOLhyphen"/>cy of mans immortall ſoul.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>Biſhop <hi>Brownrigg,</hi> A Sermon on the fifth of <hi>November,</hi> the laſt he preached. 120.</item>
+                  <item>
+                     <hi>Brinſleys</hi> falſe Teacher tried and, caſt: a Subject uſefull at all times and but too ſeaſonable for the preſent. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bewicke,</hi> Anſwer to 17 Queries of the Quakers; maintenance of Mi<g ref="char:EOLhyphen"/>niſters by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ythes; caſes of con<g ref="char:EOLhyphen"/>ſcience reſolved; Parochiall Churches juſtified; hereticall Antichriſts deſcribed. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bagſhaw,</hi> Saintſhip no ground of Soveraignty; proving that Saints barely conſidered as ſuch, ought not to govern. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Barton,</hi> a Century of ſelect Hymns, collected out of Scripture, to be ſung in five or ſix Tunes, com<g ref="char:EOLhyphen"/>monly known and practiſed. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bunnian,</hi> The Doctrine of the Law and Grace unfolded; or a diſ<g ref="char:EOLhyphen"/>courſe concerning the Law and Grace, the nature of the one, and the nature of the other; ſhewing what they are as they are the two Covenants; and likewiſe who they be; and what their conditi<g ref="char:EOLhyphen"/>ons are: that be under either of theſe two Covenants. For the better underſtanding of the Rea<g ref="char:EOLhyphen"/>der there is ſeverall Queſtions an<g ref="char:EOLhyphen"/>ſwered touching the Law and Grace, very eaſie to be read, and as eaſie to be underſtood by thoſe that are the ſons of wiſdome, the children of the ſecond Covenant; as alſo ſeverall Titles ſet over the ſeverall Truths contained in this Book, for thy ſooner finding of them, which are theſe following the Epiſtle.
+<list>
+                        <item>—A few ſighs from Hell; or the groanes of a damned ſoul; or an Expoſition of theſe words, the 19<hi rend="sup">th</hi> of <hi>Luke,</hi> concerning the rich man and the beggar; wherein is diſcovered the lamentable eſtate of the damned, their cries, their deſires, and their diſtreſſes, with the determination of God upon them; a good warning word to ſinners both old and young. 120.</item>
+                        <item>—On the Covenant. 80.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Buchanus</hi> his body of Divinity; or Inſtitutions of Chriſtian Religion, framed our of the Word of God, and the Writings of the beſt Di<g ref="char:EOLhyphen"/>vines, methodically handled by way of Queſtion and Anſwer, fit<g ref="char:EOLhyphen"/>ted for all ſuch as deſire to know and practice the will of God; tran<g ref="char:EOLhyphen"/>ſlated into Engliſh by <hi>Robert Hill</hi> B. D. for the benefit of the Engliſh Nation: to which is added, <hi>The practices of Papiſts againſt Proteſtant Princes.</hi> 40</item>
+                  <item>Baptiſm and converſion of <hi>Iſuf</hi> Turk. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Boyres</hi> Enquiries. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bayfield</hi> on the Trinity. 80.</item>
+               </list>
+               <list>
+                  <head>C</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Crook</hi> on hypocriſie in two parts; acutely diſtinguiſhing the more undiſcerned differences, between the hypocrite in his beſt dreſs of ſeeming virtues, and formall du<g ref="char:EOLhyphen"/>ties; and the true Chriſtian in his reall graces, and ſincere obedi<g ref="char:EOLhyphen"/>ence. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Crompton,</hi> The practice of prayer; with perſwaſions in backſliding times to that moſt needfull duty; the nature, neceſſity, and ſucceſs
+<pb facs="tcp:168868:5"/>of fervent prayer. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Clarke, Medulla Theologie,</hi> contain<g ref="char:EOLhyphen"/>ed in ſundry Queſtions and caſes of conſcience, both ſpeculative and practicall, the greateſt part collected out of the Works of our moſt judicious, experienced, and orthodox Engliſh Divines, and and the reſt ſupplied by the Au<g ref="char:EOLhyphen"/>thor <hi>folio.</hi>
+                     <list>
+                        <item>—Golden Apples, or ſerious and ſeaſonable counſell from the Sanctuary, to the Rulers of the earth, held forth in the reſoluti<g ref="char:EOLhyphen"/>on of ſundry Queſtions and caſes of conſcience, about diviſions, ſchiſmes, hereſies, and tolleration of them, collected from the wri<g ref="char:EOLhyphen"/>tings of the moſt orthodox and judicious Divines, both Presbyte<g ref="char:EOLhyphen"/>rian and Independant. 80.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Clark, Englands</hi> Remembrancer, containing a full and true Rela<g ref="char:EOLhyphen"/>tion of thoſe two never to be for<g ref="char:EOLhyphen"/>gotten Deliverances, the one from the Spaniſh-Invaſion in 88; the other from the helliſh Pow<g ref="char:EOLhyphen"/>der-plot, <hi>Novemb.</hi> 5. 1605. Whereunto is added the like Narrative of that ſignal judgement of God upon the Papiſts, by the fall of the Houſe in <hi>Blackefriers</hi> London, upon their fifth of <hi>No<g ref="char:EOLhyphen"/>vember</hi> 1623. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Cartwright,</hi> A practicall and pole<g ref="char:EOLhyphen"/>micall Comment on the 15<hi rend="sup">th</hi> 
+                     <hi>Pſalm,</hi> wherein is the Text explained<g ref="char:punc">▪</g> controverſies diſcuſſed; caſes of conſcience cleared; more eſpeci<g ref="char:EOLhyphen"/>ally that of uſury. 40.
+<list>
+                        <item>—<hi>Cartwright</hi>'s <hi>Electa Targumnice Rabbinica, ſive Annotationes in Ex<g ref="char:EOLhyphen"/>odum,</hi> &amp;c.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>S. Cradock,</hi> Knowledge and practice; or a plain diſcourſe of the chief things neceſſary to be believed, known, and practiſed, in order to ſalvation. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Caſe, Eliahs</hi> abatement, a Sermon at M<hi rend="sup">r</hi> 
+                     <hi>Roſwels</hi> Funerall. 120.
+<list>
+                        <item>—Morning Exerciſes methodized, or certain chief heads of the Chriſti<g ref="char:EOLhyphen"/>an Religion opened and improved, in divers Sermons by ſeverall Mi<g ref="char:EOLhyphen"/>niſters of <hi>London,</hi> in the monethly courſe of morning exerciſes at <hi>Giles</hi> in the fields. 40.</item>
+                        <item>—Challenge and triumph of faith, in a Sermon at M<hi rend="sup">r</hi> 
+                           <hi>Lucyes</hi> Funerall. 120.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Confeſſio fidei in conventu Theologorum authoritate Parl. Angl. indicto ela<g ref="char:EOLhyphen"/>borata eidem Parl. peſtmodum ap<g ref="char:EOLhyphen"/>probata; unâ cum Catechiſmo dupli<g ref="char:EOLhyphen"/>plici, majori, minori<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </hi> &amp;c. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Chetwind,</hi> The Watch charged, or a warning to Gods Watchmen, in a Sermon at the generall meeting of the aſſociate Miniſters of <hi>Somer<g ref="char:EOLhyphen"/>ſet.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Collings,</hi> The (Preacher pretended<g ref="char:EOLhyphen"/>ly ſent)<g ref="char:punc">▪</g> ſent back to bring a bet<g ref="char:EOLhyphen"/>ter account who ſent him; in vin<g ref="char:EOLhyphen"/>dication of <hi>Vindiciae Miniſterii E<g ref="char:EOLhyphen"/>vangelici,</hi> againſt a Book called <hi>The Preacher ſent.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Chauncy,</hi> Of the juſtification of a ſinner in the ſight of God. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Clegat,</hi> The abuſe of Gods grace, diſcovered in the kinds, cauſes, puniſhments, ſymptomes, cures, differences, cautions, and other practicall improvements thereof, propoſed as a ſeaſonable check to the wanton Libertiniſm of this preſent age. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Caryl,</hi> An Expoſition with practi<g ref="char:EOLhyphen"/>call obſervations continued upon the 30 and 31 Chapters of <hi>Job</hi> in 37 Lectures. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Calamy<g ref="char:punc">▪</g>
+                     </hi> A collection of ſeverall Sermons, preached on ſolemn oc<g ref="char:EOLhyphen"/>caſions on theſe Texts, <hi>Jer.</hi> 18.7,
+<pb facs="tcp:168868:5"/>8, 9, 10. <hi>Ezek.</hi> 36.32. <hi>Act.</hi> 17.30. <hi>Mat.</hi> 12.25. 2 <hi>Tim.</hi> 3.3. Earl of <hi>Warwicks</hi> Funerall Sermon. 40.</item>
+                  <item>Confeſſion of faith of the Congrega<g ref="char:EOLhyphen"/>tionall Churches in <hi>England,</hi> a<g ref="char:EOLhyphen"/>greed upon and conſented unto by their Elders and Meſſengers at the <hi>Savoy,</hi> October 12. 1658. 40.</item>
+                  <item>S<hi rend="sup">t</hi> 
+                     <hi>Chryſoſtomes</hi> golden book of edu<g ref="char:EOLhyphen"/>cation of children tranſlated from the Greek. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Capells</hi> Remains, concerning the tranſlation of the holy Scriptures; with his life. 80.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Cauſabon,</hi> Enthuſiaſme as it is an effect of nature, but miſtaken by many for divine inſpiration, or diabolicall poſſeſſion. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Cotton,</hi> On the Covenant with ad<g ref="char:EOLhyphen"/>ditions. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Crofton,</hi> Proſpering proſaneneſs pro<g ref="char:EOLhyphen"/>voking holy conference: the ſtate of the wicked: exerciſe of the godly; event of both. 120.</item>
+                  <item>Captive taken. 80.</item>
+                  <item>Churches cenſures. 80.</item>
+               </list>
+               <list>
+                  <head>D</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Dingley, Vox coeli;</hi> or Philoſo<g ref="char:EOLhyphen"/>phicall, Hiſtoricall, and Theolo<g ref="char:EOLhyphen"/>gicall Obſervations of Thunder; with a more generall view of Gods wonderfull works, ground<g ref="char:EOLhyphen"/>ed on <hi>Job</hi> 26.14. now enlarged. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Durham,</hi> A Comment on the <hi>Reve<g ref="char:EOLhyphen"/>lations,</hi> the Text explained, ſe<g ref="char:EOLhyphen"/>ries of Propheſies therein dedu<g ref="char:EOLhyphen"/>ced according to their order and dependency upon each other, <hi>&amp;c.</hi> thoſe yet to be fulfilled, ſo far as is warrantable enquired into. <hi>folio.</hi>
+                  </item>
+                  <item>Duty of man, in a familiar way for the meaneſt reader, neceſſary for all families. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Durant,</hi> Silence the duty of Saints under every ſad providence. 80.
+<list>
+                        <item>—Cluſter of grapes taken out of the woman of <hi>Canaans</hi> basket; or comfort for believers. 80.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Dickson,</hi> An Expoſition of all <hi>Pauls</hi> Epiſtles; alſo of S<hi rend="sup">t</hi> 
+                     <hi>James, Peter, John,</hi> and <hi>Jude;</hi> the ſenſe of e<g ref="char:EOLhyphen"/>very Chapter and Verſe analytical<g ref="char:EOLhyphen"/>ly unfolded, and Text enlighten<g ref="char:EOLhyphen"/>ed. <hi>folio.</hi>
+                  </item>
+                  <item>Devotions of the ancient Church in 7 pious prayers; with adminiſtra<g ref="char:EOLhyphen"/>tions. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>D.</hi> The life and death of M<hi rend="sup">r</hi> 
+                     <hi>Harris,</hi> late Preſident of Trinity-Col<g ref="char:EOLhyphen"/>ledge in <hi>Oxon.</hi> 80.</item>
+               </list>
+               <list>
+                  <head>E</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Eyres,</hi> The Church ſleeper awa<g ref="char:EOLhyphen"/>kened in 2 Sermons on <hi>Act.</hi> 20. and Verſ. 9.120.</item>
+                  <item>
+                     <hi>Eraſtus,</hi> Nullities of Church-cenſures, <hi>&amp;c.</hi> of excommunication not of di<g ref="char:EOLhyphen"/>vine inſtitution. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Ellis, Miſcelanea; ſive Meditatio<g ref="char:EOLhyphen"/>nes, Orationes,</hi> &amp;c. 120.
+<list>
+                        <item>—Quiet ſoul, or the tranquillity of Chriſtians eſtates in two Sermons. 40.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Ellis,</hi> The Paſtor and the Clerk; or a debate reall concerning Infant-Baptiſm, wherein firſt the truth of the Doctrine is afreſh cleared. Secondly the Scriptures alledged for it vindicated. Thirdly the Objections by all briefly anſwe<g ref="char:EOLhyphen"/>red. Fourthly and the Seedſ<g ref="char:EOLhyphen"/>man of them truly ciphered; together with ſome retractations of the Author, and reſentings in reference to the late civil and Ec<g ref="char:EOLhyphen"/>cleſiaſtical changes. 80.</item>
+               </list>
+               <pb facs="tcp:168868:6"/>
+               <list>
+                  <head>F</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Fulwood,</hi> The viſible Church in a large debate, whether the viſi<g ref="char:EOLhyphen"/>ble Church may be conſidered to be truly a Church of Chriſt, with reſpect to ſaving grace, affirmed, alſo what doth conſtitute viſible Church-memberſhip; what ren<g ref="char:EOLhyphen"/>ders it viſible; what nulls it. 40</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Ferguſſor,</hi> An Expoſition on the <hi>Ga<g ref="char:EOLhyphen"/>lathians</hi> and <hi>Epheſians.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>J. Fuller,</hi> Apprentices allarm, ſounded by a dying Watchman to the Countries about the City of <hi>London.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>T. Ford,</hi> Singing of Pſalms the duty of Chriſtians under the New Teſtament, in a vindicati<g ref="char:EOLhyphen"/>on of that Goſpel-Ordinance up<g ref="char:EOLhyphen"/>on <hi>Epheſ.</hi> 5.19.120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Firmin,</hi> A Treatiſe on Tithes, a Diſcourſe concerning Miniſters maintenance by Tythes. 40</item>
+               </list>
+               <list>
+                  <head>G</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>J. Goodwin</hi> againſt M<hi rend="sup">r</hi> 
+                     <hi>Resbury,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Pawſon,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Kendall,</hi> in their late writings againſt the free grace of God in the redemp<g ref="char:EOLhyphen"/>tion of the world, with a touch at D<hi rend="sup">r</hi> 
+                     <hi>Owen,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Lamb,</hi> &amp;c. 40.
+<list>
+                        <item>—On the juſtification of a ſinner, various cauſes thereof diligently enquired into, and their ſeverall contributions toward ſo happy a work clearly diſtinguiſhed, aſſign<g ref="char:EOLhyphen"/>ed to their proper cauſes. 40.</item>
+                     </list>
+                  </item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Gawden, Eccleſia Anglicanae ſuſpi<g ref="char:EOLhyphen"/>ria;</hi> the tears, ſighs, complaints, and prayers of the Church of <hi>England,</hi> ſetting forth her former conſtitution, compared with her preſent condition; alſo the viſible cauſes and probable cures of he diſtemper. <hi>folio.</hi>
+                     <list>
+                        <item>—A Sermon at the Funerall of the Reverend Biſhop <hi>Brownrigge;</hi> with an account of his life and death. 4.</item>
+                        <item>—A Thankſgiving Sermon before the Lord Mayor, at the reſtoring the ſecluded Members. 4.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Mr. Guild,</hi> The Throne of <hi>David,</hi> or an Expoſition of the 2 of <hi>Sam.</hi> 4.</item>
+                  <item>Mr. <hi>Geering,</hi> The arraignment of igno<g ref="char:EOLhyphen"/>rance; the cauſes and kinds of it; miſchiefs and danger; with the cure of it; the excellency and be<g ref="char:EOLhyphen"/>nefit of heavenly knowledg, large<g ref="char:EOLhyphen"/>ly handled from <hi>Hoſea</hi> 4.6.8.</item>
+                  <item>Mr. <hi>Greenhill,</hi> An Expoſition continu<g ref="char:EOLhyphen"/>ed upon the 20 to the 29 Chapters of <hi>Ezekiel.</hi> 4.</item>
+                  <item>Mr. <hi>Gee,</hi> The divine right and origi<g ref="char:EOLhyphen"/>nal of the civil Magiſtrate from God, as it is in <hi>Rom.</hi> 13.1. illuſtra<g ref="char:EOLhyphen"/>ted and vindicated. 8.</item>
+                  <item>Mr. <hi>Geere,</hi> Caſes of conſcience about the Sacrament. 12.</item>
+                  <item>Mr. <hi>Gery,</hi> Meditations on God, his Attributes, and other points of Re<g ref="char:EOLhyphen"/>ligion fitted for theſe times, where<g ref="char:EOLhyphen"/>in Atheiſm abounds. 12<hi rend="sup">o</hi>.</item>
+                  <item>
+                     <hi>T. Gatakeri, Adverſaria Miſcelanea, in quibus ſacrae Scripturae primô, deinde aliorum Scriptorum locis aliquàm mult is lux redditur; quae animad<g ref="char:EOLhyphen"/>verſionum hujuſmodi cinnum ab ip<g ref="char:EOLhyphen"/>ſo authore praemiſſum jam ſubſe<g ref="char:EOLhyphen"/>quuntur, edente Carolo Thomae Gat. filio. Adjicitur authoris vita propria manu ſcripta. folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Gray,</hi> The myſtery of faith, the nature, excellency, and uſeful<g ref="char:EOLhyphen"/>neſs of that noble grace, and practice thereof powerfully preſ<g ref="char:EOLhyphen"/>ſed, with three Sermons concer<g ref="char:EOLhyphen"/>ning death, the great ſalvation, <hi>&amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert,</hi> A ſoveraign Antidote againſt ſinfull errors, the Epidemicall plague of theſe latter dayes, ex<g ref="char:EOLhyphen"/>tracted
+<pb facs="tcp:168868:6"/>out of divine Records, the diſpenſatory of Chriſtianity, for prevention and cure of our ſpiritu<g ref="char:EOLhyphen"/>all diſtempers. 80.
+<list>
+                        <item>—The learned Maid, or whether a Maid may be a Scholar; a Lo<g ref="char:EOLhyphen"/>gick exerciſe written in Latin, by that incomparable Virgin <hi>Anna Ma<g ref="char:EOLhyphen"/>ria A Schurman;</hi> with ſome Epiſtles to the famous <hi>Gaſſendus</hi> and others. 80.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Gardiner,</hi> Sixteen Sermons preached in the Univerſity at <hi>Oxford,</hi> and at <hi>Court;</hi> together with his Sermon preached in <hi>Bow</hi>-Church <hi>London,</hi> on the Anniverſary meeting of <hi>Here<g ref="char:EOLhyphen"/>fordſhire</hi> Natives, <hi>June</hi> 24. 1658. 80</item>
+               </list>
+               <list>
+                  <head>H</head>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Hammond,</hi> A third defence of the Treatiſe of Schiſm, againſt the Romaniſts rejoynder; with a view of their poſition and oral tradition, in the way of Maſter <hi>White.</hi> 40.
+<list>
+                        <item>—A Paraphraſe and Annotations upon the Pſalms, briefly ex<g ref="char:EOLhyphen"/>plaining the difficulties thereof <hi>folio.</hi>
+                        </item>
+                        <item>—Of the daily practice of piety, with devotions and prayers in time of captivity. 120.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>T. Hall,</hi> A practicall and polemi<g ref="char:EOLhyphen"/>call comment on the 3 and 4 Chapters of the 2 of <hi>Tim.</hi> the Text explained; ſome contro<g ref="char:EOLhyphen"/>verſies diſcuſſed; caſes of con<g ref="char:EOLhyphen"/>ſcience cleared; common places handled. <hi>folio.</hi>
+                     <list>
+                        <item>—An expoſition of <hi>Pſal.</hi> 82. ſetting forth the neceſſity, utility, digni<g ref="char:EOLhyphen"/>ty, and duty of Magiſtrates; Scripture cleared; caſes of con<g ref="char:EOLhyphen"/>ſcience reſolved; Anabaptiſts cavills confuted; and many ſea<g ref="char:EOLhyphen"/>ſonable Obſervations raiſed. 40</item>
+                        <item>—<hi>Samaria</hi>'s downfall, or a com<g ref="char:EOLhyphen"/>ment on the five laſt, Verſes of the 13<hi rend="sup">th</hi> of <hi>Hoſea;</hi> the dignity, duty, impenitency, and downfall of <hi>Ephraim;</hi> the Text explained; caſes of conſcience cleared; practi<g ref="char:EOLhyphen"/>call Obſervations raiſed; with characters of the twenty Kings of <hi>Iſrael.</hi> 40.</item>
+                        <item>—Apology for the Miniſtry, and its maintenance; the neceſſity, dignity, and efficacy of a Goſpel-Miniſtry, againſt Socinians, Ana<g ref="char:EOLhyphen"/>baptiſts, Swenckfeldians, Enthufi<g ref="char:EOLhyphen"/>aſts, Libertines, Quakers, and the. reſt of that rout. 40.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hardy,</hi> The choiceſt Fruit, A Ser<g ref="char:EOLhyphen"/>mon before the Honourable Houſe of Lords, at a late Faſt. 40.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Huit,</hi> Repentance and converſion, the fabrick of ſalvation, being his laſt Sermons, publiſhed by Doctor <hi>Wilde,</hi> and Doctor <hi>Barwick.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hickman,</hi> A juſtification of the Fa<g ref="char:EOLhyphen"/>thers and Schoolmen, in their de<g ref="char:EOLhyphen"/>nying the poſitivity of ſin, againſt M<hi rend="sup">r</hi> 
+                     <hi>Pierce.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Houghton,</hi> On Baptiſm againſt <hi>Ha<g ref="char:EOLhyphen"/>gar,</hi> and defence of M<hi rend="sup">r</hi> 
+                     <hi>Cooke,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Baxter,</hi> and M<hi rend="sup">r</hi> 
+                     <hi>Hall.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hicks,</hi> An Expoſition on the <hi>Reve<g ref="char:EOLhyphen"/>lations;</hi> with a friendly compli<g ref="char:EOLhyphen"/>ance between Chriſts Monarchy and the Magiſtrates. <hi>folio.</hi>
+                  </item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Hylin,</hi> The parable of the Tares ex<g ref="char:EOLhyphen"/>pounded and applied in ten Ser<g ref="char:EOLhyphen"/>mons before his Majeſty King <hi>Charles</hi> the ſecond Monarch of great <hi>Brittain;</hi> with other Ser<g ref="char:EOLhyphen"/>mons added. 40.
+<list>
+                        <item>—<hi>Hiſt. Quinqu-Articularis;</hi> or a de<g ref="char:EOLhyphen"/>claration of the judgement of the Weſtern Churches, particularly of the Church of <hi>England,</hi> in the ſive controverted points of (reproach<g ref="char:EOLhyphen"/>ed in theſe latter times by the name of) Arminianiſm. 40.</item>
+                     </list>
+                  </item>
+                  <pb facs="tcp:168868:7"/>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hodges,</hi> The fear of death. 80</item>
+               </list>
+               <list>
+                  <head>I</head>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Ingelo,</hi> The perfection, authori<g ref="char:EOLhyphen"/>ty, and credibility of the Holy Scriptures, diſcovered in a Ser<g ref="char:EOLhyphen"/>mon before the Univerſity of <hi>Cambridge,</hi> at the Commencement, <hi>July</hi> 1658. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Jourdan,</hi> The heavenly childe, born and brought up with diffi<g ref="char:EOLhyphen"/>culty; or Satan defeated by a ſafeguarding Majeſty, in making the creature nothing that Chriſt may be all, being the experience of one who deſires to be known to the Lord, not to men, in whom the love of Chriſt hath conſtrain<g ref="char:EOLhyphen"/>ed to his diſcovery. 80.</item>
+                  <item>Imitation and caution to Chriſtian Wo<g ref="char:EOLhyphen"/>men, or the life and death of Miſtris <hi>Mary Buly,</hi> recommended to the Reader by D. <hi>Reynolds.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>A. Jackson,</hi> Annotations on <hi>Job, Pſalmes, Proverbs, Eccleſiaſtes,</hi> and <hi>Solomons Song.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Jeanes,</hi> The ſecond part of Scho<g ref="char:EOLhyphen"/>laſticall and practicall Divinity. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Jemmat,</hi> The Abridgement of D. <hi>Preſtons</hi> Works, the ſecond Edi<g ref="char:EOLhyphen"/>tion with large Additions. 80.</item>
+               </list>
+               <list>
+                  <head>K</head>
+                  <item>
+                     <hi>KEy,</hi> Of Reformation. 120.
+<list>
+                        <item>—Of the Sacrament. 120.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>L</head>
+                  <item>LIghtfoot's <hi>Horae Hebraicae &amp; Talmu<g ref="char:EOLhyphen"/>dicae impenſae.</hi> 40.
+<list>
+                        <item>1. <hi>In Chorographiam aliquam terrae Iſraeliticae.</hi>
+                        </item>
+                        <item>2. <hi>In Evangelium S. Matthaei.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Llod,</hi> Chriſts valedictions, or ſa<g ref="char:EOLhyphen"/>cred Obſervations on the laſt words of our Saviour on the Croſs. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Lawſon,</hi> A body of Divinity, con<g ref="char:EOLhyphen"/>taining the Rules of the ſpeciall Government of God, according to which he orders the immortall and inteellectuall creatures, An<g ref="char:EOLhyphen"/>gels and men, to their finall and eternall eſtate, being a method of thoſe ſaving truths which are con<g ref="char:EOLhyphen"/>tained in the Canon of the Holy Scripture. <hi>folio.</hi>
+                     <list>
+                        <item>—<hi>Politca ſacra &amp; Civilis,</hi> or a mo<g ref="char:EOLhyphen"/>del of Civil and Eccleſiaſticall Go<g ref="char:EOLhyphen"/>uernment, wherein beſides the poſitive Doctrine of Church and State in <hi>Gen.</hi> are debated the principall controverſies of the times, concerning the conſtituti<g ref="char:EOLhyphen"/>on of the State and Church of <hi>England</hi> 40.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>H. L' Strange,</hi> The affinity of ſacred Liturgies. <hi>folio.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>M</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Milton,</hi> Of Civill power in Eccle<g ref="char:EOLhyphen"/>ſiaſticall cauſes, that it is not a w<g ref="char:EOLhyphen"/>full for any power on earth to compell in matters of Religion. 120.
+<list>
+                        <item>—Concerning Church-Fees, Church-Revenues, and Tythes. 120</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Martin,</hi> M<hi rend="sup">r</hi> 
+                     <hi>Petto,</hi> &amp;c. A vindica<g ref="char:EOLhyphen"/>tion of the Preacher ſent. 80.</item>
+               </list>
+               <list>
+                  <head>N</head>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Nesbit,</hi> An Expoſition of both Epiſtles of <hi>Peter.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Norman,</hi> The Preachers Patent cleared, and the peoples plea
+<pb facs="tcp:168868:7"/>conſidered, a Sermon at an Ordi<g ref="char:EOLhyphen"/>nation, <hi>&amp;c.</hi> 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Newton,</hi> An Expoſition with Notes unfolded and applied on <hi>John</hi> 17. <hi>folio.</hi>
+                     <list>
+                        <item>—<hi>New-Englands</hi> Diſputations. 40.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Newcomen,</hi> The ſinners hope, and his priviledge and duty in his worſt condition, to ſtartle and invite the wicked from his ſinfull and wretched wayes, and directing the humble in the caſes of dark<g ref="char:EOLhyphen"/>neſs, ſin and affliction. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Norton,</hi> The heart of <hi>New-England</hi> rent at the blaſphemies of the Qua<g ref="char:EOLhyphen"/>kers; concerning their Doctrine, their deſtructive nature to Religi<g ref="char:EOLhyphen"/>on, Church, <hi>&amp;c.</hi> 80.</item>
+               </list>
+               <list>
+                  <head>O</head>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Owen,</hi> The divine original, autho<g ref="char:EOLhyphen"/>rity, ſelf-evidencing light, and power of the Scriptures; with anſwer to that Queſtion, How we know the Scriptures to be the Word of God; with a vindicati<g ref="char:EOLhyphen"/>on of the purity and integrity of the Hebrew and Greek Texts of the Old and New Teſtament, in ſome conſiderations on the Prole<g ref="char:EOLhyphen"/>gomena and. Appendix to <hi>Biblia Polyglotta.</hi> 80.
+<list>
+                        <item>—A Treatiſe on Temptation. 80.</item>
+                        <item>—An anſwer to two Queſtions about the power of Magiſtrates in Reli<g ref="char:EOLhyphen"/>gion, and the worſhip of God; with one about Tythes propoſed and reſolved, a ſheet of paper.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>P</head>
+                  <item>
+                     <hi>M<hi rend="sup">r</hi> Peſtell</hi>'s Sermons. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Pierſon,</hi> An Expoſition on the Creed. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Pierce</hi>'s, Anſwer to M<hi rend="sup">r</hi> 
+                     <hi>Baxter</hi> his pretended diſcovery of the Grotian Religion; with a Rejoynder to his Key for Catholicks, and Di<g ref="char:EOLhyphen"/>ſputations about Church-Govern<g ref="char:EOLhyphen"/>ment. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Polen heel,</hi> Of ſelf-deniall; the ne<g ref="char:EOLhyphen"/>ceſſity and excellency of it; with Directions for the practice of it. 80.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Preſton,</hi> Riches of mercy to men in miſery, the dignity and duty of Gods children. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Pool, Quo warranto;</hi> or a moderate enquiry into the warrantableneſs of preaching of gifted and unor<g ref="char:EOLhyphen"/>dained perſons, in vindication of <hi>Jus divinum Miniſterii Evangelici,</hi> againſt the Preacher ſent. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Perrot,</hi> The Scriptures ſtability proved, explained, and applied, that all Scriptures may with ſin<g ref="char:EOLhyphen"/>gular advantage be improved. 120.</item>
+                  <item>Biſhop <hi>Prideaux,</hi> Sacred cloquence, or the Art of Rhetorick, as it is laid down in Scripture. 80.</item>
+                  <item>
+                     <hi>Parkerus illuſtratuus, ſive Annotata quae<g ref="char:EOLhyphen"/>dam in omnes LXX. M. T. Parkeri Theſes, de traductione hominis pecca<g ref="char:EOLhyphen"/>toris ad vitam, Epiſtolae anteloqui<g ref="char:EOLhyphen"/>um, &amp; Epilogus annexus, ad Chri<g ref="char:EOLhyphen"/>ſtianam pacem, &amp; unitatem Eccleſi<g ref="char:EOLhyphen"/>aſticam obuixe invitant emnia. R. Baxtero, Parkero Theſium liberal. paſſim Praeconi, &amp; Tileno-maſtigi ſa is impotenti, amicè &amp; leniter op<g ref="char:EOLhyphen"/>poſita, ab Authore Philo-Tileno.</hi> 40.</item>
+                  <item>Mr. <hi>Potter,</hi> The myſtery of the Sab<g ref="char:EOLhyphen"/>bath; its Doctrine. 2. Morall and Ceremonial. 3. The Reſt of God. 4. The fourth Commandement expounded, <hi>&amp;c,</hi> 80.</item>
+                  <item>Mr. <hi>Patrick,</hi> Divine Arithmatick; or the right art of numbering our dayes, in a Sermon at Mr. <hi>Samuel Jacomb</hi>'s Funerall. 40.
+<list>
+                        <pb facs="tcp:168868:8"/>
+                        <item>—Heartſeaſe againſt troubles; with a conſolatory diſcourſe againſt the loſs of our friends, and thoſe that are dear to us. 80.</item>
+                        <item>—<hi>Menſa myſtica,</hi> or a diſcourſe of the Sacrament; the ends of its in<g ref="char:EOLhyphen"/>ſtitution ſo manifeſted; our ad<g ref="char:EOLhyphen"/>dreſſes ſo directed; our behaviour ſo ordered that we may not loſe the benefits of it. 80.</item>
+                        <item>—<hi>Aqua regenerationis,</hi> a diſcourſe on Baptiſm, into which is inſerted a brief diſcourſe, to perſwade to a confirmation of the Bapiſmall vow. 80.</item>
+                        <item>—<hi>Palmer,</hi> The Goſpel new crea<g ref="char:EOLhyphen"/>ture, wherein the work of the Spirit is opened, in awakening the ſoul to the getting pardon of ſin, and an intereſt in Jeſus Chriſt, without which it is undone to all eternity, diſcovering the refuges and vain hopes for heaven, of igno<g ref="char:EOLhyphen"/>rant and formall profeſſors in this Nation, tending to rouſe them out of their carnall ſecurity before it be too late, by way of comfort to all dejected ſouls; the tempe<g ref="char:EOLhyphen"/>ſtuous ſoul calmed by Jeſus Chriſt. 80.</item>
+                     </list>
+                  </item>
+               </list>
+               <list>
+                  <head>R</head>
+                  <item>Dr. <hi>Robinſon, Endoxa,</hi> or ſome pro<g ref="char:EOLhyphen"/>bable enquiries into truth, both divine and humane; with a ſhort diſquiſition of ſome few difficult places of Scripture. 80</item>
+                  <item>
+                     <hi>Ralph Robinſon,</hi> Chriſt the perfect pat<g ref="char:EOLhyphen"/>tern, being the ſubſtance of ſeve<g ref="char:EOLhyphen"/>rall Sermons.</item>
+                  <item>Mr. <hi>Rutherford,</hi> Influences of the life of grace, the way and meanes of having and improving of ſpirituall diſpoſitions, and quickening influ<g ref="char:EOLhyphen"/>ences from Chriſt the reſurrection and the life. 40.</item>
+                  <item>The Refuter refuted, or Dr. <hi>Hammond</hi>'s ΕΚΤΕΝΕΣΤΕΠΟΝ defended by a third perſon. 40.</item>
+                  <item>Dr. <hi>Reynold</hi>'s Works in one Volume newly printed. <hi>folio.</hi>
+                     <list>
+                        <item>—Divers Sermons on ſundry occa<g ref="char:EOLhyphen"/>ſions, <hi>viz.</hi> Shields of the earth; peace of the Church; ſelf-deniall; Joy in the Lord; true gain; peace of <hi>Jeruſalem;</hi> deaths advantage; <hi>Zions</hi> praiſe; humane learning; crown of great actions; the rich mans charge; Gods fidelity. 40.</item>
+                        <item>—The wall and glory of Religion, in a Thanſgiving Sermon for reſto<g ref="char:EOLhyphen"/>ring the Parliament, and preſerv<g ref="char:EOLhyphen"/>ing the City. 40.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Robinſons</hi> pattern. 80.</item>
+                  <item>Mr. <hi>N. Rogers,</hi> On the parable of the night-friend. 40.
+<list>
+                        <item>—The parable of the figge-tree, or the doom of a barren and un<g ref="char:EOLhyphen"/>fruitfull profeſſion. 40.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Reynell</hi> againſt Libertiniſme. 120.</item>
+               </list>
+               <list>
+                  <head>S</head>
+                  <item>
+                     <hi>Sacra Trias,</hi> A ſecond ternary of Ser<g ref="char:EOLhyphen"/>mons, the laſt and beſt monu<g ref="char:EOLhyphen"/>ments of the learned and pious Dr. <hi>Stuart,</hi> Clerk of the Cloſet to his Majeſty. 12.
+<list>
+                        <item>—Three Sermons on 1 <hi>Cor.</hi> 10.30. <hi>Mat.</hi> 28.6. 1 <hi>Cor.</hi> 15.29. <hi>Ezek.</hi> 33.11.12.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Syd. Simpſon,</hi> Of unbelief, not go<g ref="char:EOLhyphen"/>ing to Chriſt for life and ſalvation, a great ſin, yet pardonable. 4.</item>
+                  <item>Mr. <hi>Shaw,</hi> The Saints Tomb-ſtone, the holy life and happy death of Mrs. <hi>Shaw</hi> of <hi>Hull,</hi> &amp;c. 12.</item>
+                  <item>Mr. <hi>Swinnock,</hi> Heaven and Hell epito<g ref="char:EOLhyphen"/>mized; the true Chriſtian cha<g ref="char:EOLhyphen"/>racterized; an Exhortation, mo<g ref="char:EOLhyphen"/>tives, meanes and directions to be
+<pb facs="tcp:168868:8"/>ſpeedy and ſerious about the work of converſion. 8.
+<list>
+                        <item>— The door of ſalvation opened, containing the nature, neceſſity, marks, and meanes of Regenerati<g ref="char:EOLhyphen"/>on. 8.</item>
+                        <item>
+                           <hi>Sanders,</hi> A dying fathers living Legacy to his loving ſon; or lively rules from the rule of life to be lived by every Mothers childe. 12.</item>
+                        <item>—The ſpirituall journey of a young man towards the land of peace, to live therein eternally with God. 4.</item>
+                     </list>
+                  </item>
+                  <item>M. <hi>Sheffeild,</hi> The ſinfulneſs of evil thoughts, wherein the chambers of imagery are unlocked; the ca<g ref="char:EOLhyphen"/>binet of the heart opened, <hi>&amp;c.</hi> 8.</item>
+                  <item>Mr. <hi>Obadiah Sedgwick,</hi> The Anatomy of ſecret, preſumptuous, and ſins in dominion, with uprightneſs, with the remiſſibleneſs of all ſin, and irremiſſibleneſs of that a<g ref="char:EOLhyphen"/>gainſt the Holy Ghoſt. 4.
+<list>
+                        <item>—The parable of the Prodigall, containing the ſinners averſion from God; the Penitent's con<g ref="char:EOLhyphen"/>verſion, and favourable entertain<g ref="char:EOLhyphen"/>ment from God. 4.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Sheepherd,</hi> The parable of the ten Virgins, in ſundry Sermons on <hi>Mat.</hi> 25. The difference between the ſincere Chriſtian and refined hypocrite; of ſaving and com<g ref="char:EOLunhyphen"/>mon grace, &amp;c. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Sharrock, De Officiis ſecundum natu<g ref="char:EOLhyphen"/>rae jus, feu de moribus, ad rationis normam conformandis doctrina, unde caſus omnes conſcientiae, quatenus notiones a naturae ſuppetunt, judicari poſſint.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Spark,</hi> The Saints joy, a Treatiſe diſcovering the preſence of God to be the Saints fulneſs of joy and eternall pleaſure. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>J. Smith</hi> Fellow of Queens Col<g ref="char:EOLhyphen"/>ledge in <hi>Cambridge,</hi> Select diſ<g ref="char:EOLhyphen"/>courſes; of divine knowledge; ſuperſtition; atheiſm; immorta<g ref="char:EOLhyphen"/>lity of the ſoul; God; prophe<g ref="char:EOLhyphen"/>ſie; Covenant; phariſaicall righ<g ref="char:EOLhyphen"/>teouſneſs; excellency of Religi<g ref="char:EOLhyphen"/>on; Chriſtian conflict: alſo his Funerall Sermon by M<hi rend="sup">r</hi> 
+                     <hi>Patrick;</hi> with his life and death. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>D. S.</hi> A vindication of the civil Magiſtrates authority about the Church, and ſubordination of Ec<g ref="char:EOLhyphen"/>cleſiaſticall Judicatories; with a refutation of the toleration of all Religions amongſt Chriſtians; with the judgement of the re<g ref="char:EOLhyphen"/>formed Churches of <hi>France, Swit<g ref="char:EOLhyphen"/>zerland, Geneva,</hi> &amp;c. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Spencer,</hi> Golden meanes for Chri<g ref="char:EOLhyphen"/>ſtians to walk by, wherein all ſeekers in truth, and ſhakers in the faith, may find the true Religi<g ref="char:EOLhyphen"/>on, and be eſtabliſhed. <hi>folio.</hi>
+                  </item>
+                  <item>Mr. <hi>Slater</hi>'s Catechiſm. 120.</item>
+                  <item>Mr. <hi>Stokes,</hi> A paraphraſticall explicati<g ref="char:EOLhyphen"/>on of the twelve minor Prophets, <hi>Hoſea, Joel, Amos, Obadiah, Jo<g ref="char:EOLhyphen"/>nah, Micah, Nahum, Habakkuck, Zephaniah, Haggi, Zechariah, Ma<g ref="char:EOLhyphen"/>lachi.</hi> 80.
+<list>
+                        <item>—Spirituall armour. 40.</item>
+                     </list>
+                  </item>
+                  <item>Mrs. <hi>Anna Shurman</hi> her works in En<g ref="char:EOLhyphen"/>gliſh. 80.</item>
+                  <item>Mr. <hi>Stubb</hi>'s meditations. 80.</item>
+                  <item>Mr. <hi>Stern, Animi medulla, ſeu de beati<g ref="char:EOLhyphen"/>tudine &amp; miſeria; illius eſſentiâ, ori<g ref="char:EOLhyphen"/>gine &amp; ad ipſam methodo: hujus na<g ref="char:EOLhyphen"/>turâ, cauſis &amp; remediis, tractatus in quo quaecunque ad alterutram ſpectant, explicantur; facilitas cum b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>atitudinemconſequenditum miſeriam declinandi demonſtratur, &amp; graviſ<g ref="char:EOLhyphen"/>ſimae de libero arbitrio ratione ſuppli<g ref="char:EOLhyphen"/>candis Dei concurſu cauſis &amp; origine mali Divinae peccati non volitione, ſcientiâ media paenitentiae lachrimis extaſi &amp; controverſiae enodantur.</hi> 80.</item>
+               </list>
+               <pb facs="tcp:168868:9"/>
+               <list>
+                  <head>T</head>
+                  <item>M<hi rend="sup">r</hi>. <hi>Tubb,</hi> Meditations divine and moral. 8.</item>
+                  <item>Mr. <hi>Tucker,</hi> Gods fearers, Gods fa<g ref="char:EOLhyphen"/>vourites, or an encouragement to fear God in the worſt times. 8.</item>
+                  <item>
+                     <hi>S.</hi> P. <hi>Temple</hi>'s beſt improvement of the worſt conditions; contempt of the world; judgement of God againſt the wicked; on repentance; Sa<g ref="char:EOLhyphen"/>crament; affliction; and martyr<g ref="char:EOLhyphen"/>dome. 8.</item>
+                  <item>
+                     <hi>Tilenus Junior, Arcana dogmatum Anti-Remonſtrantium:</hi> The <hi>Calviniſts</hi> Cabinet unlocked. 8.</item>
+                  <item>Mr. <hi>Thorndike,</hi> An Epilogue to the tra<g ref="char:EOLhyphen"/>gedy of the Church of <hi>England,</hi> being a neceſſary conſideration and brief reſolution of the chief controverſies in Religion, that di<g ref="char:EOLhyphen"/>vide the Weſtern Churches, occa<g ref="char:EOLhyphen"/>ſioned by the preſent calamities of the Church of <hi>England. folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Townſend,</hi> The Chriſtians daily practice, or a practicall diſcourſe of prayer. 80.</item>
+                  <item>D. <hi>T. Taylor,</hi> A comment on <hi>Titus</hi> with Doctrine and Obſervation; with his life and death fully rela<g ref="char:EOLhyphen"/>ted. <hi>folio.</hi>
+                     <list>
+                        <item>—On Chriſts temptations. <hi>folio.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Trapp,</hi> A comment on the <hi>Proverbs, Eccleſiaſtes, Solomons Song, Iſaiah, Jeremy, Lamentations, Ezekiel,</hi> and <hi>Daniel. folio.</hi>
+                  </item>
+                  <item>Biſhop <hi>Towers,</hi> Four Sermons: 80.
+<list>
+                        <item>1. Earl of <hi>Northamptons</hi> Funerall.</item>
+                        <item>2. Bap<g ref="char:EOLhyphen"/>tiſme of <hi>James</hi> Earl of <hi>Northamp<g ref="char:EOLhyphen"/>ton.</hi>
+                        </item>
+                        <item>3. Defence of the materiall Church before King <hi>James.</hi>
+                        </item>
+                        <item>4. A Sermon before King <hi>Charles.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>D. <hi>Jer. Taylor,</hi> S<hi rend="sup">r</hi> 
+                     <hi>Ju. Dalſtons</hi> Funerall Sermon. 40.</item>
+               </list>
+               <list>
+                  <head>V</head>
+                  <item>
+                     <hi>Vindiciae Magiſtratuum.</hi> 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Vertue,</hi> Chriſt and the Church, or parallels in three Books; in the firſt you have the harmony be<g ref="char:EOLhyphen"/>tween Chriſt and the foregoing Types, by which he was fore-ſha<g ref="char:EOLhyphen"/>dowed in the Old Teſtament, and other reſemblances, by which it is ſet forth in the Holy Scriptures. 40.</item>
+                  <item>Biſhop <hi>
+                        <g ref="char:V">Ʋ</g>her,</hi> Eighteen Sermons preached at <hi>Oxford;</hi> of converſi<g ref="char:EOLhyphen"/>on to God; of Redemption and Juſtification by Chriſt; with a narrative of the Authors life by 1 <hi>Stanly Gower,</hi> ſometime Chap<g ref="char:EOLhyphen"/>lain to the ſaid Reverend Biſhop. 40.</item>
+               </list>
+               <list>
+                  <head>W</head>
+                  <item>
+                     <hi>M<hi rend="sup">r</hi> Woodroff,</hi> A religious Treatiſe upon <hi>Simeons</hi> Song, directing how to live holy, and die happy 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>T. White,</hi> Of the power of godli<g ref="char:EOLhyphen"/>neſs; wherein it conſiſts; cauti<g ref="char:EOLhyphen"/>ons againſt miſtakes and hindran<g ref="char:EOLhyphen"/>ces moſt common to Gods people; helps to it. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Wales,</hi> Mount <hi>Ebal</hi> leveled; or redemption from the curſe; our condition under the Law; Chriſt a curſe for us; the grace of re<g ref="char:EOLhyphen"/>ption weerein; the benefits and engagements to duties which flow from it. 80,</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Walton,</hi> Againſt D<hi rend="sup">r</hi> 
+                     <hi>Owen</hi> in defence of the <hi>Biblia Polyglotta,</hi> and tran<g ref="char:EOLhyphen"/>ſlactions therein exhibited, <hi>&amp;c.</hi> with the punctation of the He<g ref="char:EOLhyphen"/>brew Text; various readings, and ancient Hebrew Character is handled. 80.</item>
+                  <pb facs="tcp:168868:9"/>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Warmeſtry,</hi> The converſion of <hi>Sig. Rigep. Dandulo,</hi> the only Son of a Silk-Merchant in <hi>Tzio,</hi> from the deluſions of Mahomet; his Bap<g ref="char:EOLhyphen"/>tiſm by M<hi rend="sup">r</hi> 
+                     <hi>Gunning.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Willes,</hi> A word in ſeaſon for a warning to <hi>England;</hi> or a pro<g ref="char:EOLhyphen"/>pheſie of perillous times opened and applied. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Wilkenſon, Conciones octo ad Achade<g ref="char:EOLhyphen"/>micos Oxon. latiné habita Epiſtola<g ref="char:EOLhyphen"/>rum decus.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Whitfield,</hi> A perſwaſive to peace a<g ref="char:EOLhyphen"/>mongſt the ſons of peace. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Warren,</hi> The Jewiſh Sabbath an<g ref="char:EOLhyphen"/>tiquated, and the Lords Day in<g ref="char:EOLhyphen"/>ſtituted by divine Authority, main<g ref="char:EOLhyphen"/>tained by Scripture arguments, and teſtimonies of the beſt antiqui<g ref="char:EOLhyphen"/>ty; with a refutation of Objecti<g ref="char:EOLhyphen"/>ons. 40.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Winterton,</hi> The body of Chriſtian Religion, by <hi>H. Zankius</hi> tranſlated. 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>White,</hi> A manuell for Parents, being particular directions for baptizing, correcting, inſtructing, and callings for their children. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Whiting, Jacob</hi>'s ladder to Heaven. 80.</item>
+               </list>
+               <list>
+                  <head>Y</head>
+                  <item>A Young Divine's Apology for his continuance in the Univerſity, with his ſerious meditations on the ſacred calling of a Miniſter. 80.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>HISTORY BOOKS.</head>
+               <list>
+                  <item>A Pothegmes by King <hi>James,</hi> King <hi>Charles,</hi> Lord <hi>Worceſter,</hi> Lord <hi>Bacon,</hi> &amp;c. 120.</item>
+                  <item>Art of Oratory, Inſtructions thereunto: 80.</item>
+                  <item>Art of Swimming. 80.</item>
+                  <item>The whole Art of Drawing, Limning, Painting, and Etching, collected our of the choiceſt Italian and Ger<g ref="char:EOLhyphen"/>man Authors: to which is added, Exact rules of proportion for drawing the Heads of Men, Wo<g ref="char:EOLhyphen"/>men, and Children, of what big<g ref="char:EOLhyphen"/>neſs ſoever: originally invented and written by the famous Italian Painter <hi>Od<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ardo Fialetti,</hi> Painter of <hi>Boloign:</hi> publiſhed for the be<g ref="char:EOLhyphen"/>nefit of all ingenious Gentlemen and Artiſts by <hi>Alexander Brown</hi> Practitioner. 40.</item>
+                  <item>Advice to a Daughter againſt advice to a Son, with additions. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Bromhall,</hi> Of Specters; or an Hi<g ref="char:EOLhyphen"/>ſtory of apparitions, oracles, pro<g ref="char:EOLhyphen"/>pheſies, and predictions; with dreames, viſions, and revelations; with the cunning deluſions of the Devil, a work for the diſcovery of impoſtures, and religious cheats of theſe times. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Burton,</hi> A comment on <hi>Antoninus</hi> Itinerary; or journyes of the Ro<g ref="char:EOLhyphen"/>man Empire, ſo far as concerns <hi>Brittain,</hi> wherein the firſt foun<g ref="char:EOLhyphen"/>dation of our Cities, Laws, and Governments, according to the Roman policy are diſcovered; many antiquary Meddals, Inſcrip<g ref="char:EOLhyphen"/>tions, and Urns are recovered from the ruine of times; with a Map, <hi>&amp;c. folio.</hi>
+                  </item>
+                  <item>
+                     <hi>Balzacks</hi> maſter-piece, <hi>Ariſtippus,</hi> a diſcourſe of the Court. 120.</item>
+                  <item>
+                     <hi>Balzacks</hi> Remains, or his laſt Letters written to ſeverall grand, and e<g ref="char:EOLhyphen"/>minent perſons in <hi>France;</hi> where<g ref="char:EOLhyphen"/>unto are annexed the familiar Let<g ref="char:EOLhyphen"/>ters of <hi>Monſieur de Balzack,</hi> to his Friend <hi>Monſieur Chaplain,</hi> ne<g ref="char:EOLhyphen"/>ver before in Engliſh. 80.</item>
+                  <item>
+                     <hi>A. G. Busbequij quae extant omnia, quibus acceſſit epitomè de moribus Turca<g ref="char:EOLhyphen"/>rum.</hi> 80.</item>
+                  <item>
+                     <hi>Balzacks</hi> Remains. 120.</item>
+                  <item>Geometricall Dialling, or Dialling per<g ref="char:EOLhyphen"/>formed by a Line, cords only, or by the plain Scale, wherein is contained two ſeverall methods of Inſcribing the Hour, Lines in all, Plains with the Subſtile, Stile, and
+<pb facs="tcp:168868:10"/>Meridian in their proper crafts and quantityes; being a full explication of divers difficulties, in the Works of learned M<hi rend="sup">r</hi> 
+                     <hi>Samuel Foſter</hi> de<g ref="char:EOLhyphen"/>ceaſed, by <hi>Jo. Collins</hi> of <hi>London</hi> Accountant.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Berbury,</hi> The Hiſtory of the Queen of <hi>Sweden,</hi> her Reſignation, the reaſon and manner; with mo<g ref="char:EOLhyphen"/>tives of her turning to the Catho<g ref="char:EOLhyphen"/>lick Religion. 80.</item>
+                  <item>
+                     <hi>S. R. Baker</hi>'s Chronicle digeſted into a new method, the third Edition; with the Reign of <hi>Charles</hi> the firſt, with a continuation till the end of 1658. with a narrative of the affairs of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> more eſpecially rela<g ref="char:EOLhyphen"/>ting to King <hi>Charles</hi> the ſecond. <hi>fol.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Cogan,</hi> The ſcarlet Gown; or an Hiſtory of the preſent Cardinals of <hi>Rome,</hi> their life, birth, intereſt, offices, dignities, merits, vertues, vices; with the life of <hi>Alexander</hi> the ſeventh. 80.</item>
+                  <item>A Character of the Low-Conntries, being three years Obſervations of the vices and vertues of the Inha<g ref="char:EOLhyphen"/>bitants. 120.</item>
+                  <item>A Character of <hi>England,</hi> preſented in a Letter to a Nobleman of <hi>France;</hi> with reflections upon <hi>Gallus Ca<g ref="char:EOLhyphen"/>ſtratus.</hi> 120.</item>
+                  <item>A Character of <hi>Scotland.</hi> 120.</item>
+                  <item>A Character of <hi>France,</hi> with an An<g ref="char:EOLhyphen"/>ſwer to that of <hi>England;</hi> with a freſh whip for <hi>Monſieur.</hi> 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Charrington,</hi> The life and death of <hi>Oliver</hi> Lord Protector. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Clark</hi>'s Martyrology reprinted with additions of the perſecutions of <hi>Piedmount,</hi> and <hi>Poland. folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Chilmead, T. Campanella,</hi> An Italian Fryer and ſecond Machiavell, his advice to the King of <hi>Spain</hi> for at<g ref="char:EOLhyphen"/>taining the univerſall Monarchy of the world; with an admonitory Preface by <hi>W. Prin.</hi> 40.</item>
+                  <item>A Character of <hi>Charles</hi> the ſecond by an impartiall hand. 40.</item>
+                  <item>
+                     <hi>S. R. Cotton,</hi> Count <hi>Gondamor</hi>'s tranſ<g ref="char:EOLhyphen"/>actions during his Embaſſy in <hi>England.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Clarke, De plenitudine mundi brevis &amp; Philoſophica diſſertatio, contra ſententias</hi> Fr. Baconi, T. Hob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ij, &amp; <hi>S. Wardi.</hi> 80.</item>
+                  <item>A Character of <hi>Italy,</hi> or the Italian a<g ref="char:EOLhyphen"/>natomized by an Engliſh Chy<g ref="char:EOLhyphen"/>rurgion. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Cowley,</hi> Obſervations upon the bleſſed reſtoration and return of his ſacred Majeſty <hi>Charles</hi> the ſecond.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Dawbeny,</hi> Hiſtory and Policy, in the tranſactions of <hi>Oliver</hi> Lord Protector. 80.</item>
+                  <item>Epheſian Marron. 120.</item>
+                  <item>
+                     <hi>Englands</hi> Confuſion during its <hi>Interreg<g ref="char:EOLhyphen"/>num;</hi> or an exact Hiſtory of all the ſeverall changes of Government in <hi>England,</hi> from the horrid murther of King <hi>Charles</hi> the firſt, to the happy reſtauration of King <hi>Charles</hi> the ſecond, being the ſecond part of <hi>Florus Anglicus.</hi> 80.</item>
+                  <item>
+                     <hi>Englands</hi> black Tribunall ſet forth in the Triall of King <hi>Charles</hi> the firſt; with his Majeſties Speech, <hi>&amp;c.</hi> with the ſeverall dying ſpeeches of the Nobility and Gentry as were inhumanely put to death, for their loyalty to their Soveraign Lord the King. 80.</item>
+                  <item>Fellow-Traveller through City and Countrey, among Students and Scholars, at home and abroad, furniſhed with ſhort Stories, and the choiceſt Speeches of clean and innocent wit and mirth, for diſ<g ref="char:EOLhyphen"/>courſe or private entertamment in recreations or Journeys. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Floods</hi> Philoſphy. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Fuller,</hi> An appeal of injured inno<g ref="char:EOLhyphen"/>cence, unto the religious learned, and ingenious Reader, in a contro<g ref="char:EOLhyphen"/>verſie between M<hi rend="sup">r</hi> 
+                     <hi>Heylin</hi> and him<g ref="char:EOLhyphen"/>ſelf. <hi>folio.</hi>
+                  </item>
+                  <pb facs="tcp:168868:10"/>
+                  <item>
+                     <hi>Floreo,</hi> The Italian and Engliſh Dictio<g ref="char:EOLhyphen"/>nary augmented with many thou<g ref="char:EOLhyphen"/>ſand words, now reviſed and in<g ref="char:EOLhyphen"/>riched with many additions, with proverbs, and inſtructions to the Italian tongue. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Georges, America</hi> painted to the life, the Hiſtory of the conqueſt and firſt original undertakings of the plantation in thoſe parts. 40.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Heylin,</hi> A ſhort view of the Reign and life of King <hi>Charles</hi> the firſt Monarch of Great <hi>Brittain,</hi> from his birth to his buriall. 80.
+<list>
+                        <item>—<hi>Bibliotheca Raegia,</hi> or royall Libra<g ref="char:EOLhyphen"/>ry, in a collection of ſuch Papers of his late Majeſty, as have eſca<g ref="char:EOLhyphen"/>ped the wrack and ruine of theſe times, relating to Church and State, with Obſervations never publiſhed before. 80.</item>
+                     </list>
+                  </item>
+                  <item>The Hiſtory of Engliſh and Scottiſh Preſbytery; their deſigns and pra<g ref="char:EOLhyphen"/>ctiſes for ſubverſion of Govern<g ref="char:EOLhyphen"/>ment in Church and State. 80.</item>
+                  <item>The Hiſtory of <hi>Venice,</hi> written in Itali<g ref="char:EOLhyphen"/>an by <hi>Paulo Peruta,</hi> tranſlated in<g ref="char:EOLhyphen"/>to Engliſh by <hi>Henry</hi> Earl of <hi>Mun<g ref="char:EOLhyphen"/>mouth.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hoole, Commenius</hi> viſible world, or a picture of the chief things in the world. 80.</item>
+                  <item>The Hiſtory of <hi>Montroſs,</hi> Generall for his Majeſty <hi>Charles</hi> the firſt, the ſecond Edition, with his charact<g ref="char:EOLhyphen"/>er, forreign negotiations, landing, defeat, and deplorable death. 80.</item>
+                  <item>The Hiſtory of his ſacred Majeſty <hi>Charles</hi> the ſecond, begun from the murder of his Royall Father of happy memory, and continued to this preſent year 1660, by a perſon of quality. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Heylin, Examen Hiſtoricum,</hi> a diſco<g ref="char:EOLhyphen"/>very and examination of the mi<g ref="char:EOLhyphen"/>ſtakes, ſalſities, and defects in ſome modern Hiſtories. 80.</item>
+                  <item>The Jeſuits policy, intruſion into Courts of Princes. <hi>&amp;c.</hi> 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Leigh, England</hi> deſcribed, or the ſeverall Countyes and Shires thereof briefly handled; ſome<g ref="char:EOLhyphen"/>thing alſo premiſed to ſet forth the glory of the Nation. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Larkin, Speculum patrum,</hi> a look<g ref="char:EOLhyphen"/>ing glaſs of the Fathers, where<g ref="char:EOLhyphen"/>in each are characterized in their colours; alſo of the chief Philoſo<g ref="char:EOLhyphen"/>phers, Hiſtorians, Gramarians, O<g ref="char:EOLhyphen"/>rators, and Poets. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Lee, Orbis miraculum,</hi> or <hi>Solomons</hi> Temple pourtrayed by Scrip<g ref="char:EOLhyphen"/>ture-light; its famous buildings, the pompous worſhip of the <hi>Jews;</hi> with the Rites and Ce<g ref="char:EOLhyphen"/>remonies, and offices in that work; their ample revenues, and ſpiritu<g ref="char:EOLhyphen"/>all myſteries of the Goſpel veiled under all, which are treated of at large. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Langley, Polidorus</hi> Virgil, the Hi<g ref="char:EOLhyphen"/>ſtory of the inventers and original of all Antiquities, Arts, Myſteries, Sciences, <hi>&amp;c.</hi> with Sects and Schiſms <hi>&amp;c.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Loveday,</hi> Exquiſite Letters publiſhed by his Brother. 80.</item>
+                  <item>
+                     <hi>Lucretius</hi> in Engliſh. 80.</item>
+                  <item>
+                     <hi>T. Livy,</hi> Newly reviſed and enlarged, with a ſupplement in Engliſh. <hi>fol.</hi>
+                  </item>
+                  <item>
+                     <hi>Monmouths</hi> Hiſtory of <hi>Venice. folio.</hi>
+                  </item>
+                  <item>Multiplicity of worlds; that the Pla<g ref="char:EOLhyphen"/>nets are Regions inhabited, and the earth a Star. 120.</item>
+                  <item>Myſteries of love and eloquence, or art of complements, as they are ma<g ref="char:EOLhyphen"/>naged in <hi>Spring-Garden, Hide-Parke, New-Exchange,</hi> &amp;c. with Letters, Riddles, Proverbs, Jeſts, <hi>&amp;c.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Morland,</hi> The Hiſtory of the Evan<g ref="char:EOLhyphen"/>gelicall Churches of the vallyes of <hi>Piedmont;</hi> the deſcription of the place; doctrine, life, and perſe<g ref="char:EOLhyphen"/>cution of the ancient inhabitants; the late maſſacre in 1655; and of the following tranſactions to 1658. juſtified by Manuſeripts writ ma<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:168868:11"/>hundred years before <hi>Calvin</hi> or <hi>Luther. folio.</hi>
+                  </item>
+                  <item>The myſtery of Jeſuitiſme the ſecond part, repreſenting the humors, deſigns, and practiſes of thoſe who call themſelves the ſociety of <hi>Jeſus.</hi> 120.</item>
+                  <item>S<hi rend="sup">r</hi> 
+                     <hi>Toby Matthews,</hi> A collection of Let<g ref="char:EOLhyphen"/>ters, with a character of the moſt excellent Lady <hi>Lucy</hi> Counteſs of <hi>Carliſle,</hi> with ſundry Letters of his own. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Moor,</hi> The Hiſtory of the Turks; their original; riſe of the <hi>Otaman</hi> family, valiant undertakings of Chriſtians againſt them; with their various events. 80.</item>
+                  <item>The Nativity of the King of <hi>Sweden.</hi> 40.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Osborne,</hi> The author of advice to a Son; his eſſayes, paradoxes, and problematicall diſcourſes, Letters, characters, with politicall dedu<g ref="char:EOLhyphen"/>ctions from the Earl of <hi>Eſſex,</hi> exe<g ref="char:EOLunhyphen"/>cuted under Q <hi>Elizabeth.</hi> 120.</item>
+                  <item>The Powder-plot. 80.</item>
+                  <item>The perfect Polititian, or a full view of the life and actions military and civill of <hi>Oliver Cromwell,</hi> with his character. 80.</item>
+                  <item>
+                     <hi>Petavius,</hi> The Hiſtory of the World, continued by others to 1659; with a Geographicall deſcription of <hi>Europe, Aſia, Africa,</hi> and <hi>America.</hi>
+                  </item>
+                  <item>Proverbs, Engliſh, French, Dutch, I<g ref="char:EOLhyphen"/>talian, and Spaniſh, all Engliſhed. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Phillips,</hi> The new World of En<g ref="char:EOLhyphen"/>gliſh words; or a Dictionary of the terms, Etymologyes, defini<g ref="char:EOLhyphen"/>tions, and perfect interpretations of hard Engliſh words, through<g ref="char:EOLhyphen"/>out the Arts and Sciences liberall or mechanick; with poeticall fi<g ref="char:EOLhyphen"/>ctions, <hi>&amp;c. folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Porter,</hi> Coſmography and Geo<g ref="char:EOLhyphen"/>graphy, deſcribing the world with plain Rules for the Globe; alſo a Chronologie of the moſt e<g ref="char:EOLhyphen"/>minent perſons and things from the Creation. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Ruſworth,</hi> Hiſtoricall collections of private paſſages of State, weighty matters of Law, remarkable pro<g ref="char:EOLhyphen"/>ceedings in five Parliaments, be<g ref="char:EOLhyphen"/>ginning the 16<hi rend="sup">th</hi> of King <hi>James,</hi> to the 5<hi rend="sup">th</hi> of King <hi>Charles,</hi> digeſt<g ref="char:EOLhyphen"/>ed in order. <hi>folio.</hi>
+                  </item>
+                  <item>S<hi rend="sup">r</hi> 
+                     <hi>Walter Rauleigh</hi>'s Cabinet-Coun<g ref="char:EOLhyphen"/>ſell, the chief Arts of Empires and myſteries of State, diſcabineted in politicall and polemicall Apho<g ref="char:EOLhyphen"/>riſms, grounded on Authority and experience. 80.</item>
+                  <item>S<hi rend="sup">r</hi> 
+                     <hi>Henry Slinſgbye</hi>'s advice to his Son. 120.</item>
+                  <item>Satyricall declamations at the Opera. 80.</item>
+                  <item>The deſcription of the Sector. 40.</item>
+                  <item>Vulgar errours in practice cenſured, the Art of Oratory for young Stu<g ref="char:EOLhyphen"/>dents. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ffllet,</hi> Wits ſancies, eſſayes, and Obſervations, divine, Poeticall, Philoſophicall, Military, and Hi<g ref="char:EOLhyphen"/>ſtoricall. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Wood,</hi> The Reign of King <hi>Charles.</hi> faithfully performed. 80<g ref="char:punc">▪</g>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Winſtanly, Englands</hi> Worthies, in. the ſelect lives of the moſt eminent perſons from <hi>Corſtantine</hi> the great, to the death of <hi>Oliver</hi> Protector. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Wren,</hi> Monarchy aſſerted, or the State of Monarchicall and popu<g ref="char:EOLhyphen"/>lar Government, in vindication of the conſiderations upon M<hi rend="sup">r</hi> 
+                     <hi>Har<g ref="char:EOLhyphen"/>ringtons</hi> Oceana. <hi>folio.</hi>
+                  </item>
+                  <item>
+                     <hi>E. Warcup</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>Italyes</hi> original, glory, ruine, and revivall, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> an exact Survey of the whole Geography and Hiſtory of that famous Coun<g ref="char:EOLhyphen"/>try, with the Iſlands adjacent, <hi>Sicily, Malta,</hi> &amp;c. and what is remarkable in <hi>Rome,</hi> and thoſe Towns and Territories mentioned in ancient and modern Authors.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb facs="tcp:168868:11"/>
+               <head>PHYSICK-BOOKS.</head>
+               <list>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Whitmore,</hi> The new diſeaſe that now rageth in <hi>England,</hi> its nature, ſigns, cauſes, and cure 80.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Winſton,</hi> Anatomy-Lectures at <hi>Gre<g ref="char:EOLhyphen"/>ſham</hi>-Colledge. 80.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Brown,</hi> Urn-burialls, or ſepulchrall Urns in <hi>Norfolke,</hi> with the gar<g ref="char:EOLhyphen"/>den of <hi>Cyrus,</hi> or quincunciall Lo<g ref="char:EOLhyphen"/>zenge, or Network plantations of the ancient, <hi>&amp;c.</hi> with Obſerva<g ref="char:EOLhyphen"/>tions. 80.</item>
+                  <item>Frier <hi>Bacon</hi> his diſcovery of the mira<g ref="char:EOLhyphen"/>cles of Art, Nature, and Magick, tranſlated out of D<hi rend="sup">r</hi> 
+                     <hi>Dees</hi> own Co<g ref="char:EOLhyphen"/>py. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Lovells</hi> Herball, a collection of an<g ref="char:EOLhyphen"/>cient and modern Authors, Gale<g ref="char:EOLhyphen"/>nicall and Chymicall, touching trees, ſhrubs, plants, fruits, flow<g ref="char:EOLhyphen"/>ers; their place, time, names, kinds, vertues, <hi>&amp;c.</hi> 120.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Charleton,</hi> A naturall Hiſtory of nu<g ref="char:EOLhyphen"/>trition, life, and voluntary motion, containing all new diſcoveries of Anatomiſts, and moſt probatory opinions of Phyſitians concerning the Oeconomy of humane nature, delivered in an <hi>exercitatio. Phyſico</hi> Anatomicall. 40.</item>
+                  <item>
+                     <hi>Digby,</hi> A Treatiſe of ſympatheticall powder. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hyden,</hi> A new method of Roſie<g ref="char:EOLhyphen"/>cruſian Phyſick, the cauſe, their experienced Medicines for cure of all diſeaſes. 40.</item>
+                  <item>D<hi rend="sup">r</hi> 
+                     <hi>Everard,</hi> The univerſall Medicine, or wondefull vertues of Tobacco taken in a Pipe its operation and uſe in Phyſick.</item>
+                  <item>
+                     <hi>J. Tanner,</hi> The hidden Treaſuries of the Art of Phyſick. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Culpepper,</hi> The ſchool of Phyſick, the whole Art reduced into Apho<g ref="char:EOLhyphen"/>riſmes, choice and tried receipts, Aſtrologically and phyſically pre<g ref="char:EOLhyphen"/>ſcribed, <hi>&amp;c.</hi> 80.</item>
+                  <item>
+                     <hi>La. Kents</hi> Man, The ſecond Edition, with the vertues of Gaſcoin-pow<g ref="char:EOLhyphen"/>der, and <hi>Lapis contra Xarvam,</hi> with exquiſite wayes of preſerv<g ref="char:EOLhyphen"/>ing, candying. 120.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Williams,</hi> Occult Phyſick, or the three princples in nature anatomi<g ref="char:EOLhyphen"/>zed by a philoſophicall operation taken from experience. 80.</item>
+                  <item>Accompliſhed Cook, the whole Art revealed, dreſſing of-fleſh fiſh, foul; an exact account of all diſh<g ref="char:EOLhyphen"/>es in ſeaſon; with the lively illu<g ref="char:EOLhyphen"/>ſtrations of ſuch 'neceſſary figures as are referred to practice, by <hi>R. May</hi> in fifty years experience, and attendance upon ſundry perſons of Honour. 80.</item>
+                  <item>
+                     <hi>Schroder</hi>'s order of Phyſick, his Trea<g ref="char:EOLhyphen"/>tiſe of Animals as they are uſed in Phyſick and Chyrurgery, divided into four parts, the firſt treateth of the more perfect terreſtriall creatures, the ſecond, third, and fourth, of Birds, Fiſhes, Inſects. 80.</item>
+                  <item>Eighteen Books of the ſecrets of Art and Nature, being the ſumme and ſubſtance of naturall Philoſophy, firſt deſigned by <hi>John Wecker</hi> Do<g ref="char:EOLhyphen"/>ctor in Phyſick, and now much augmented and enlarged by Do<g ref="char:EOLhyphen"/>ctor <hi>R. Read. folio.</hi>
+                  </item>
+                  <item>
+                     <hi>Catalogus Plantarum circa Cantabrigiam naſcentium, in quo exhibentur quot-quot hactenus inventae ſunt, quae vel ſponte proveniunt, vel in agris ſerun<g ref="char:EOLhyphen"/>tur.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Willis, Liber de fermentatione ſive de motu inteſtino particularum in quevis corpore. Alter de febribus, ſive de motu earundem in ſanguine ani<g ref="char:EOLhyphen"/>malium. His acceſſit diſſertatio E<g ref="char:EOLhyphen"/>piſtolica de Urinis.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Higmore. Exercitationes duae quarum prior de paſſione Hyſterica altera, de affectione Hypochondriaca.</hi> 80.</item>
+                  <item>D. <hi>Bicaiſſe, Manuale medicorum, ſen</hi> ΣΥΝΑΞΙΣ <hi>Aphoriſmorum Hypo<g ref="char:EOLhyphen"/>critis, Praenotionum. Coacarum &amp;
+<pb facs="tcp:168868:12"/>praedictionum, ſecundum propriam morborum omnium nomenclaturam.</hi> 240.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>LAW BOOKS.</head>
+               <list>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Stile,</hi> Modern Reports begun in the Upper-Bench, beginning 21 <hi>Cha.</hi> to <hi>Michaelmas</hi> 1665, as well the Criminall as on the Pleas ſide. <hi>folio.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Wingate,</hi> Maxims of reaſon, or the reaſon of the common Law of <hi>England. folio.</hi>
+                  </item>
+                  <item>Reports of S<hi rend="sup">r</hi> 
+                     <hi>Jo. Bridgman</hi> Serjeant at Law. <hi>folio.</hi>
+                  </item>
+                  <item>
+                     <hi>S<hi rend="sup">r</hi> Ja. Leighs</hi> reports of divers reſolu<g ref="char:EOLhyphen"/>tions of Law, ariſing upon Ca<g ref="char:EOLhyphen"/>ſes in the Court of Wards, and other Courts at <hi>Weſtminſter,</hi> in King <hi>Charles</hi> and King <hi>James</hi> Reigns. <hi>folio.</hi>
+                  </item>
+                  <item>Mr. <hi>Hern,</hi> Modern aſſurances, exact forms and draughts of preſidents for bargains, ſales, grants, feoff<g ref="char:EOLhyphen"/>ments, bonds, bills, conditions, covenants, joyntures, indentures, fines and recoveries, Charter<g ref="char:EOLhyphen"/>parties for Kings Leaſes, with all aſſurances now in uſe. 80</item>
+                  <item>
+                     <hi>W. Gliſſon</hi> and <hi>A. Gulſton</hi> Eſquires, A ſurvey of the Law, directions to proſecute and defend perſonall actions uſually brought at com<g ref="char:EOLhyphen"/>mon Law, with Judges opinions; the nature of a Writ of errour. 80.</item>
+                  <item>The generall Tutor, or exact Clark and Scriveners daily exerciſe, for all Preſidents. 80.</item>
+                  <item>A young Clarks guide, the third part, a collection of choice Engliſh Preſidents, for Indentures, ſettle<g ref="char:EOLhyphen"/>ments of Exchange, of bargaining. and ſales, the neweſt form. 80.</item>
+                  <item>Lord <hi>Cooke,</hi> Certain ſelect Caſes in Law, tranſlated out of a Manuſcript written with his own hand. <hi>folio.</hi>
+                  </item>
+                  <item>Declarations and other pleadings con<g ref="char:EOLhyphen"/>tained in the eleven parts of the Repo. of Sr. <hi>Edward Cooke,</hi> ren<g ref="char:EOLhyphen"/>dred into Engliſh by <hi>W. Hughs</hi> 
+                     <abbr>Eſq</abbr> 
+                     <hi>folio.</hi>
+                  </item>
+                  <item>An exact Abridgment of that excellent Treatiſe of the Doctor and Stu<g ref="char:EOLhyphen"/>dent. 80.</item>
+                  <item>R. <hi>Zouch, Queſtionum juris Civilis Centu<g ref="char:EOLhyphen"/>ria, non minus ad legum Generali<g ref="char:EOLhyphen"/>um cognitionem, quam ad ſtudioſum exercitationem accommodata.</hi> 120.</item>
+                  <item>
+                     <hi>Sheepherd,</hi> Of Corporations, Fraterni<g ref="char:EOLhyphen"/>ties, and Guilds; the learning of the Law in body-Politicks is un<g ref="char:EOLhyphen"/>folded; the antiquities, order, and Governments of the ſame, with forms and preſidents of Char<g ref="char:EOLhyphen"/>ters and Corporations. 80.</item>
+                  <item>Dr. <hi>Gowell,</hi> The Interpreter of hard words in Law-writtes, and Sta<g ref="char:EOLhyphen"/>tutes of <hi>England,</hi> fitted for the Students in Law, Statutes, or An<g ref="char:EOLhyphen"/>tiquities. <hi>folio.</hi>
+                  </item>
+                  <item>Sr. <hi>George Crooke,</hi> latey one of the Ju<g ref="char:EOLhyphen"/>ſtices of the Kings Bench; the potrs of ſelect caſes, the ſecond part. <hi>folio.</hi>
+                  </item>
+                  <item>Mr. <hi>Harrington,</hi> The Art of Lawgiving.
+<list>
+                        <item>1. The ſuperſtructures of all Go<g ref="char:EOLhyphen"/>vernments.</item>
+                        <item>2. The frames of the Commonwealth of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> and the <hi>Jewes.</hi>
+                        </item>
+                        <item>3. A mo<g ref="char:EOLhyphen"/>dell fitted to the preſent ſtate of this Nation; with an appendix concerning the Houſe of <hi>Peers.</hi> 80.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Hackwell,</hi> The old way of hold<g ref="char:EOLhyphen"/>ing a Parliament in <hi>England,</hi> from the ancient Records; with cer<g ref="char:EOLhyphen"/>tain municipiall rights and cu<g ref="char:EOLhyphen"/>ſtoms of this Commonwealth; with priveledges of Parliament. 80.</item>
+                  <item>Mr. <hi>Somner,</hi> Of Gavelkinde, both name and thing; ſundry emergent Ob<g ref="char:EOLhyphen"/>ſervations both pleaſant and pro<g ref="char:EOLhyphen"/>fitable to be known of the ſtudi<g ref="char:EOLhyphen"/>ous, in the Lawes of this King<g ref="char:EOLhyphen"/>dome. 40.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>MATHEMATICKS.</head>
+               <list>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Gadbury,</hi> The nativity of King <hi>Charles</hi> aſtrologicaly done, with
+<pb facs="tcp:168868:12"/>reaſon in art of various ſucceſs and miſfortune of his whole life, being occaſionally a brief Hiſtory of our unhappy Wars. 80.</item>
+                  <item>Mr. <hi>S. Foſter,</hi> Miſcellanies, or Mathe<g ref="char:EOLhyphen"/>maticall Lucubrations, many tran<g ref="char:EOLhyphen"/>ſlated by <hi>J. Twiſden,</hi> with ſome<g ref="char:EOLhyphen"/>what of his own. <hi>folio.</hi>
+                  </item>
+                  <item>Friar <hi>Bacon,</hi> His diſcovery of the mira<g ref="char:EOLhyphen"/>cles of Art, Nature, and Magick, tranſlated from Dr. <hi>Dees</hi> own Co<g ref="char:EOLhyphen"/>py, by <hi>T. M.</hi> 120.</item>
+                  <item>Mr. <hi>Aſhmole,</hi> The way to bliſs in three Books, a learned diſcourſe of the Philoſophers ſtone. 40.</item>
+                  <item>The French Gardiner, ſhewing to cul<g ref="char:EOLhyphen"/>tivate all Fruit-trees, and Herbs, to drie and conſerve them natu<g ref="char:EOLhyphen"/>rally by <hi>R. D,</hi> now in Engliſh by <hi>Philocepos,</hi> illuſtrated with Scul<g ref="char:EOLhyphen"/>ptures. 80.</item>
+                  <item>A true Relation of paſſages betwixt Dr. <hi>Dee</hi> and ſome ſpirits, tend<g ref="char:EOLhyphen"/>ing to a generall alteration of moſt States and Kingdomes in the world, publiſhed by Dr <hi>Cauſa<g ref="char:EOLhyphen"/>bon. folio.</hi>
+                  </item>
+                  <item>
+                     <hi>Trigonometria Britannica,</hi> The Doctrine of Triangles in two Books;
+<list>
+                        <item>1. Of naturall and artificiall ſigns, tangents, ſecants, and a Table of Lo<g ref="char:EOLhyphen"/>rithms.</item>
+                        <item>2. The Canon of artifi<g ref="char:EOLhyphen"/>ciall ſigns, tangents, and Loga<g ref="char:EOLhyphen"/>rithms by <hi>H. Gillebrand.</hi>
+                        </item>
+                     </list> A Table of Logarithms to 100000, with artificiall ſigns and tangents to the 100 part of every degree, and the three firſt degrees to 1000 parts, by <hi>J. Newton</hi> M. A. <hi>folio.</hi>
+                  </item>
+                  <item>Mr. <hi>Speed, Adam</hi> out of <hi>Eden,</hi> Expe<g ref="char:EOLhyphen"/>riments of Huſbandry, improve<g ref="char:EOLhyphen"/>ment of ground from 200 <hi>per an.</hi> to 2000 yearly profit, all charges deducted. 80.</item>
+                  <item>Mr. <hi>Sharrock,</hi> A Hiſtory of the propa<g ref="char:EOLhyphen"/>gation and improvement of Ve<g ref="char:EOLhyphen"/>getables, by the concurrence of Art and nature. Of Plants uſual<g ref="char:EOLhyphen"/>ly cultivated in <hi>England,</hi> as in<g ref="char:EOLhyphen"/>creaſed by ſeed, of ſets, <hi>&amp;c.</hi> ſe<g ref="char:EOLhyphen"/>verall Graftings and Inoculatings; alſo the beſt culture of Fields, Or<g ref="char:EOLhyphen"/>chards, Gardens, Plants; with the effects of nature upon endea<g ref="char:EOLhyphen"/>vours of Artiſts, all from Obſer<g ref="char:EOLhyphen"/>vations made from experience and practice. 80.</item>
+                  <item>Mr. <hi>Newton,</hi> Mathematicall elements in three parts. 40.
+<list>
+                        <item>1. Of pract. Geo<g ref="char:EOLhyphen"/>metry, of Lines, Planets and So<g ref="char:EOLhyphen"/>lids.</item>
+                        <item>2. Uſe of the Globes.</item>
+                        <item>3. Deli<g ref="char:EOLhyphen"/>neation of the Globe upon the plain of any great Circle, according to the Stereographick or circular projection.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>I. Barrow, Euclidis elementorum libri</hi> 15. <hi>breviter demonſtrati.</hi> 80.</item>
+                  <item>Mr. <hi>Outred,</hi> Circles of proportion and Horiozontall Inſtrument in En<g ref="char:EOLhyphen"/>gliſh. 80.</item>
+                  <item>
+                     <hi>Paracelſus,</hi> Philoſophers ſtone. 80.</item>
+                  <item>The Nativity of the King of <hi>Sweden.</hi> 40.</item>
+                  <item>Mr. <hi>Collings</hi> Sector. 40.
+<list>
+                        <item>—Dialling. 40.</item>
+                     </list>
+                  </item>
+                  <item>Mr. <hi>Newtons</hi> Logarithmes. 120.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>POEMS.</head>
+               <list>
+                  <item>NApps on <hi>Parnaſſus.</hi> 80.</item>
+                  <item>
+                     <hi>Cleaveland</hi> revived, Orations, Epi<g ref="char:EOLhyphen"/>piſtles, <hi>&amp;c.</hi> 80.
+<list>
+                        <item>—His Poems with many additions. 80,</item>
+                     </list>
+                  </item>
+                  <item>Fanſhaw. 80.</item>
+                  <item>
+                     <hi>Sucklin</hi>'s Remains, Poems, Letters. 80.</item>
+                  <item>
+                     <hi>Chamberlain</hi>'s heroick Poems. 80.</item>
+                  <item>
+                     <hi>Pecke, Owen,</hi> Epigrams tranſlated. 80.</item>
+                  <item>Poems, Epigrams, Satyrs, <hi>&amp;c.</hi> 80.</item>
+                  <item>Cockain. 80.</item>
+                  <item>
+                     <hi>Montagues</hi> ſheepherds Paradice. 80.</item>
+                  <item>Rigby. 80.</item>
+                  <item>
+                     <hi>Iter Boreale,</hi> Attempting ſomething up<g ref="char:EOLhyphen"/>on the ſuccesfull and matchleſs march of the Lord Generall <hi>George Monck</hi> from <hi>Scotland.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Francis,</hi> A paſtorall Elegy upon the barbarous decollation of King <hi>Charles</hi> the firſt, with an Interlude upon the ſuddain expiration of
+<pb facs="tcp:168868:13"/>our late great controulers. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Driden, Aſtraea Redux,</hi> A Poem on the happy reſtauration and return of his ſacred Majeſty <hi>Charles</hi> the 2.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Howell, Sol in aſcendente,</hi> or the glorious appearance of <hi>Charles</hi> the ſecond upon the Horizon of <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Fullar,</hi> A Panegyrick to his Majeſty on his happy return.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Lluelyn,</hi> A Poem to the Kings moſt excellent Majeſty.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Waller,</hi> Upon his Majeſties happy return, a Poem.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>PLAYES.</head>
+               <list>
+                  <item>FAble transformed. 40.</item>
+                  <item>
+                     <hi>Lewis</hi> 2.40.</item>
+                  <item>Chaſt Woman againſt her will. 40.</item>
+                  <item>Tooth-drawer. 40.</item>
+                  <item>Honour in the end. 40.</item>
+                  <item>Tell-tale. 40.</item>
+                  <item>Don-Quixot. 40.</item>
+                  <item>Fair Spaniſh Captive. 40.</item>
+                  <item>Careleſs, noble ſervant. 80.
+<list>
+                        <item>—Diſcreet Lover.</item>
+                        <item>—Deſerving favourite.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Middleton,</hi> No wit to womens. 80.
+<list>
+                        <item>—More diſſemblers beſides women.</item>
+                        <item>—Women beware women.</item>
+                     </list>
+                  </item>
+                  <item>The famous Paſtorall. 80.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>SCOOL-BOOKS.</head>
+               <list>
+                  <item>THe Dutch Tutor, brief Grammar Rules, pleaſant Dialogues, and Vo<g ref="char:EOLhyphen"/>cabulares of the moſt uſuall words 80.</item>
+                  <item>Learnings foundation, in a method for teaching Engliſh in a ſhort time 80.</item>
+                  <item>Learners help to the Hebrew, for ſpeedy finding out any Hebrew root in the Bible by <hi>A. R.</hi> 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Sherley, Manuductio,</hi> or leading to the principles of Grammar, the ſecond Edition with Additions. 80.</item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Hoole,</hi> A new Art of teaching Gram<g ref="char:EOLhyphen"/>mar, how children in their play<g ref="char:EOLhyphen"/>ing years may gramattically attain to the grounds and exerciſe of La<g ref="char:EOLhyphen"/>tin, Greek, and Hebrew. 80.
+<list>
+                        <item>—<hi>Terminationes &amp; exempla Conjuga<g ref="char:EOLhyphen"/>tionum &amp; Declinationum cum multis additionibus.</hi> 80.</item>
+                     </list>
+                  </item>
+                  <item>M<hi rend="sup">r</hi> 
+                     <hi>Dugard, Lexicon Graci Teſt. alphab. unà cum explanatione Gram. vocum ſingularum in uſum Tyronum nec non concordantiâ ſingulis dictionibus ap<g ref="char:EOLhyphen"/>pofitâ in uſum Theologiae candidato<g ref="char:EOLhyphen"/>rum.</hi>
+                  </item>
+                  <item>A Greek and Engliſh Lexicon. 80.</item>
+                  <item>
+                     <hi>Knowls</hi>'s Hebrew Rudiments. 80.</item>
+                  <item>A collection of Proverbs uſed in all lan<g ref="char:EOLhyphen"/>guages, and now made Engliſh by <hi>N. R.</hi> Gentleman.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
